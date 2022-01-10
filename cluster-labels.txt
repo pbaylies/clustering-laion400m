@@ -1,0 +1,64 @@
+0 - accessories, products, hiking	21277
+1 - diagrams	5257
+2 - appliances	6535
+3 - outdoors, sea, sky	11404
+4 - products, cups, lamps, plates, candles	19363
+5 - book covers	14825
+6 - product photos, chairs, furniture	19445
+7 - text, buttons, cartoons (with text)	15990
+8 - person	11099
+9 - video game graphics	15489
+10 - toys, stuffed animals, cartoon characters	18027
+11 - outdoors, trees, mountains, nature	13841
+12 - screenshots, graphics, phone, desktop	10970
+13 - cars, racing	13619
+14 - sports	12319
+15 - outside, buildings	19153
+16 - jewelry, bracelet, necklace, ring, earring	22579
+17 - movie posters, tv shows, DVDs	13076
+18 - jackets, shirts, product photos	23497
+19 - christmas	9875
+20 - gadgets, electronics, laptops	22202
+21 - people on tv, movies	16440
+22 - people, crowds, crowded	20099
+23 - tires, bikes, vehicles	10560
+24 - food	15856
+25 - industrial, equipment	6422
+26 - historical photos, black and white	9556
+27 - holiday, flowers, wedding, birthday, cake	8320
+28 - political photos	6990
+29 - backgrounds, textures	33591
+30 - shoes, footwear, belts	19143
+31 - album covers	18221
+32 - product packaging	17330
+33 - weddings, wedding dress, wedding photography, couples	7086
+34 - sports footage	13671
+35 - celebrities	10715
+36 - text, book covers	14987
+37 - makeup, perfume, product	10999
+38 - sexy, porn	4777
+39 - travel, destinations, famous buildings	16944
+40 - normal cars	9402
+41 - cellphones, cellphone cases	10920
+42 - video game covers, comic books, superheroes	9546
+43 - girl, family, baby, people	12328
+44 - invitations, events, venues	10954
+45 - art, paintings, frames	11242
+46 - clothing, models, product photography	21434
+47 - parts, tools	24828
+48 - posters, ads, book covers, movies	22191
+49 - flowers, garden, plants	15186
+50 - vehicles - trains, planes, trucks, heavy equipment, satellites	11223
+51 - text, forms, documents, sheet music	5860
+52 - business, graphics, infographics, presentations	13861
+53 - signs, products	74700
+54 - shorts, pants, skirts, product photography	11592
+55 - Indian	8805
+56 - animals	18585
+57 - watches clocks, time, timepieces	7279
+58 - drinks, bottles, alcohol	7228
+59 - people, text	21866
+60 - text, graphs, study materials	12807
+61 - interior, furniture, bedroom, bathroom, bed, sofa	26496
+62 - logos, stickers, graphics	31310
+63 - products, shirts, hats	19256
